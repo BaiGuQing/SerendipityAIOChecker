@@ -7,5 +7,6 @@
 这个GUI真的写了很久很久，但还是因为javafx占用性能太多，我技术太低，就去学了csharp来寻求更好的性能，但javafx写出来真的很好看
 <img width="1718" height="931" alt="微信图片_2025-11-01_004202_674" src="https://github.com/user-attachments/assets/d4842045-2aff-4d53-9eec-757fb5c02614" />
 <img width="1221" height="833" alt="ScreenShot_2025-11-01_004136_883" src="https://github.com/user-attachments/assets/93b170c5-365c-426f-8995-92d86def456b" />
+最后维护时间在23年10月份
 # 仅供学习参考
 **由于该项目长时间没有维护，API均已失效，请勿修改进行非法行动！！！**
